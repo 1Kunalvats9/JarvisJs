@@ -67,6 +67,8 @@ function readOut(message){
     console.log("Speaking...");
 }
 
+
+
 //example of readOut
 // speakBtn.addEventListener("click", () =>{
 //     readOut("Kunal  4 baap ka");
